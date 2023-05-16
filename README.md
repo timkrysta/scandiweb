@@ -37,6 +37,7 @@ During this test I have:
   ```
 
 > Note: If you are running it for the first time then pulling the docker images + running `npm install && npm run build` can take a bit ;)
+> After you will see that react finished building `scandiweb-react-build-1 exited with code 0`, you can visit [localhost:8080](http://localhost:8080).
 
 ## Author
 [Tymoteusz Krysta](https://www.linkedin.com/in/tim-krysta/) - krystatymoteusz@gmail.com
