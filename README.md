@@ -15,6 +15,10 @@ I aimed to collect all the additional points according to [the task description]
 - [x] SASS: advantage
 - [x] NOTE: React and vue.js is a huge advantage if you decide to use them for the frontend part.
 
+During this test I have:
+- learned basics of React and
+- practiced Docker.
+
 ## Requirements
 - docker & docker-compose
 
